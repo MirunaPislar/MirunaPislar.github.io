@@ -15,21 +15,28 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }} <a href="https://www.deepmind.com/">DeepMind></a></p>
+        
+        <ul class="view">
+          <li>[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30x" />](https://github.com/MirunaPislar)</li>
+          <li>[<img src="https://dblp.org/img/dblp.icon.192x192.png" height="30x" />](https://dblp.org/pid/277/9412.html)</li>
+          <li>[<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" height="30x" />](https://twitter.com/Miruna_Pislar)</li>
+          <li>[<img src="https://cdn-icons-png.flaticon.com/512/51/51916.png" height="30x" />](https://www.behance.net/mirunapislar)</li>  
         </ul>
-        {% endif %}
+
+        <ul class="view">
+          <li><a href="{{https://github.com/MirunaPislar}}">View On <strong>GitHub</strong></a></li>
+          <li><a href="{{https://dblp.org/pid/277/9412.html}}">See <strong>Publications</strong></a></li>
+          <li><a href="{{https://twitter.com/Miruna_Pislar}}">Check out <strong>Twitter</strong></a></li>
+          <li><a href="{{https://www.behance.net/mirunapislar}}">Go to <strong>Behance</strong></a></li>
+        </ul>
       </header>
       <section>
 
