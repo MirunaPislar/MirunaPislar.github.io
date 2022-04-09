@@ -1,9 +1,3 @@
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50x" />](https://github.com/MirunaPislar)
-[<img src="https://dblp.org/img/dblp.icon.192x192.png" height="50x" />](https://dblp.org/pid/277/9412.html)
-[<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" height="50x" />](https://twitter.com/Miruna_Pislar)
-[<img src="https://cdn-icons-png.flaticon.com/512/51/51916.png" height="50x" />](https://www.behance.net/mirunapislar)
-
-
 ## About
 
 **Career**: I'm a Research Engineer at DeepMind in Paris, working on deep reinforcement learning.
