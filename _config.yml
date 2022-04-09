@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
 title: Miruna Pîslar
+logo: /assets/img/profile.png
+description: Research Engineer, DeepMind
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
