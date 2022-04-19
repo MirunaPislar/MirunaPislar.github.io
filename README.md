@@ -40,10 +40,10 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 [Machine translation decoding beyond beam search](https://arxiv.org/pdf/2104.05336.pdf). Rémi Leblond, Jean-Baptiste Alayrac, Laurent Sifre, Miruna Pîslar, Jean-Baptiste Lespiau, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals. EMNLP (2021).
 
-[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei.COLING (2020).
+[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. COLING (2020).
 
 ## Talks
-
+* _When should agents explore?_ at MILA RL Sofa (April 2022)
 * _Transformers: past, present and future_ at the Virtual Grace Hopper Celebration EMEA (2021) [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
 * _Introduction to Natural Language Processing_ at a hackathon organised by TeensInAI Romania (2021)
 * Interview on my career path at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (**in Romanian**)
