@@ -1,10 +1,10 @@
 ## About
 
-**Career**: I'm a Research Engineer at DeepMind in Paris, working on deep reinforcement learning.
+I'm a Research Engineer at DeepMind in Paris, working on deep reinforcement learning. 
 
-**Education**: I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge (Fitzwilliam College).
+I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge (Fitzwilliam College).
 
-**Research interests**: representation learning, multi-agent social learning, AI for social good, language evolution.
+My research interests span representation learning, multi-agent social learning, AI for social good, and language evolution.
 
 ## Featured Projects
 
@@ -14,7 +14,7 @@ Abstract: _Cultural transmission is the domain-general social skill that allows 
 
 <img src="assets/img/cgi.png" alt="cgi" width="500x" />
 
-### The _when_ of exploration (RL) [[paper]](https://arxiv.org/pdf/2108.11811.pdf)
+### The _when_ of exploration (RL) [[paper]](https://arxiv.org/pdf/2108.11811.pdf) [[ICLR spotlight video (5mins)]](https://iclr.cc/virtual/2022/spotlight/7010) [[poster]](https://raw.githubusercontent.com/MirunaPislar/MirunaPislar.github.io/main/assets/img/iclr-poster.png)
 
 Abstract: _Exploration remains a central challenge for reinforcement learning (RL). Virtually all existing methods share the feature of a monolithic behaviour policy that changes only gradually (at best). In contrast, the exploratory behaviours of animals and humans exhibit a rich diversity, namely including forms of switching between modes. We present an initial study of mode-switching, non-monolithic exploration for RL. We investigate different modes to switch between, at what timescales it makes sense to switch, and what signals make for good switching triggers. We also propose practical algorithmic components that make the switching mechanism adaptive and robust, which enables flexibility without an accompanying hyper-parameter-tuning burden._
 
