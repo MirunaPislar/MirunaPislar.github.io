@@ -45,6 +45,7 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 [Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. COLING (2020).
 
 ## Talks
+* _Cultural Transmission with Reinforcement Learning_ at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
 * _When should agents explore?_ at MILA RL Sofa (April 2022)
 * _Transformers: past, present and future_ at the Virtual Grace Hopper Celebration EMEA (2021) [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
 * _Introduction to Natural Language Processing_ at a hackathon organised by TeensInAI Romania (2021)
