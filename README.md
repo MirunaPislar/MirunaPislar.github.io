@@ -1,10 +1,10 @@
 ## About
 
-I'm a Research Engineer at DeepMind in Paris, working on reinforcement learning. 
+I'm a Research Engineer at DeepMind Paris. 
 
 I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge.
 
-My research interests span representation learning, multi-agent social learning, AI for social good, and language evolution.
+My research interests span reinforcement learning, representation learning, multi-agent social learning, AI for social good, and language evolution.
 
 ## Featured Projects
 
