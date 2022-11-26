@@ -1,8 +1,8 @@
 ## About
 
-I'm a Research Engineer at DeepMind in Paris, working on deep reinforcement learning. 
+I'm a Research Engineer at DeepMind in Paris, working on reinforcement learning. 
 
-I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge (Fitzwilliam College).
+I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge.
 
 My research interests span representation learning, multi-agent social learning, AI for social good, and language evolution.
 
@@ -14,7 +14,7 @@ Abstract: _Cultural transmission is the domain-general social skill that allows 
 
 <img src="assets/img/cgi.png" alt="cgi" width="500x" />
 
-### The _when_ of exploration (RL) [[paper]](https://arxiv.org/pdf/2108.11811.pdf) [[ICLR spotlight video (5mins)]](https://iclr.cc/virtual/2022/spotlight/7010) [[poster]](https://raw.githubusercontent.com/MirunaPislar/MirunaPislar.github.io/main/assets/img/iclr-poster.png)
+### The _when_ of exploration (RL) [[paper]](https://arxiv.org/pdf/2108.11811.pdf) [[ICLR spotlight]](https://iclr.cc/virtual/2022/spotlight/7010) [[poster]](https://raw.githubusercontent.com/MirunaPislar/MirunaPislar.github.io/main/assets/img/iclr-poster.png)
 
 Abstract: _Exploration remains a central challenge for reinforcement learning (RL). Virtually all existing methods share the feature of a monolithic behaviour policy that changes only gradually (at best). In contrast, the exploratory behaviours of animals and humans exhibit a rich diversity, namely including forms of switching between modes. We present an initial study of mode-switching, non-monolithic exploration for RL. We investigate different modes to switch between, at what timescales it makes sense to switch, and what signals make for good switching triggers. We also propose practical algorithmic components that make the switching mechanism adaptive and robust, which enables flexibility without an accompanying hyper-parameter-tuning burden._
 
@@ -34,7 +34,7 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 ## Publications
 
-[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo, Shantanu Thakoor, Miruna Pîslar, Bernardo Avila Pires, Florent Altché, Corentin Tallec, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. arXiv (2022).
+[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo, Shantanu Thakoor, Miruna Pîslar, Bernardo Avila Pires, Florent Altché, Corentin Tallec, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. NeurIPS (2022).
 
 [Learning Robust Real-Time Cultural Transmission without Human Data](https://arxiv.org/pdf/2203.00715.pdf). Cultural General Intelligence Team, Avishkar Bhoopchand, Bethanie Brownfield, Adrian Collister, Agustin Dal Lago, Ashley Edwards, Richard Everett, Alexandre Frechette, Yanko Gitahy Oliveira, Edward Hughes, Kory W Mathewson, Piermaria Mendolicchio, Julia Pawar, Miruna Pîslar, Alex Platonov, Evan Senter, Sukhdeep Singh, Alexander Zacherl, Lei M Zhang. arXiv (2022).
 
@@ -44,9 +44,12 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 [Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. COLING (2020).
 
-## Talks
-* _Cultural Transmission with Reinforcement Learning_ at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
-* _When should agents explore?_ at MILA RL Sofa (April 2022)
-* _Transformers: past, present and future_ at the Virtual Grace Hopper Celebration EMEA (2021) [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
-* _Introduction to Natural Language Processing_ at a hackathon organised by TeensInAI Romania (2021)
+## Talks & Events
+* _BYOL-Explore_ at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
+* _Learning Robust Real-Time Cultural Transmission without Human Data_ at the [Cognitive Machine Learning (CoML)](https://cognitive-ml.fr/) group at ENS (November 2022): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
+* _Cultural Transmission in AI_ at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
+* _When should agents explore?_ at [ICLR](https://iclr.cc/) (April 2022): [tweet](https://twitter.com/Miruna_Pislar/status/1518702795033092097?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [video](https://iclr.cc/virtual/2022/spotlight/7010)
+* _When should agents explore?_ at [MILA](https://mila.quebec/en/) RL Sofa (April 2022)
+* _Transformers: past, present and future_ at the Virtual Grace Hopper Celebration EMEA (2021): [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
+* _Introduction to Natural Language Processing_ at a hackathon organised by TeensInAI Romania (2021): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
 * Interview on my career path at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (**in Romanian**)
