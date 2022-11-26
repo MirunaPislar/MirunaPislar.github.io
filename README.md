@@ -45,11 +45,11 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 [Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. COLING (2020).
 
 ## Talks & Events
-* _BYOL-Explore_ at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
-* _Learning Robust Real-Time Cultural Transmission without Human Data_ at the [Cognitive Machine Learning (CoML)](https://cognitive-ml.fr/) group at ENS (November 2022): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
-* _Cultural Transmission in AI_ at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
-* _When should agents explore?_ at [ICLR](https://iclr.cc/) (April 2022): [tweet](https://twitter.com/Miruna_Pislar/status/1518702795033092097?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [video](https://iclr.cc/virtual/2022/spotlight/7010)
-* _When should agents explore?_ at [MILA](https://mila.quebec/en/) RL Sofa (April 2022)
-* _Transformers: past, present and future_ at the Virtual Grace Hopper Celebration EMEA (2021): [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
-* _Introduction to Natural Language Processing_ at a hackathon organised by TeensInAI Romania (2021): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
-* Interview on my career path at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (**in Romanian**)
+* **BYOL-Explore** at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
+* **Learning Robust Real-Time Cultural Transmission without Human Data** at the [Cognitive Machine Learning (CoML)](https://cognitive-ml.fr/) group at ENS (November 2022): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
+* **Cultural Transmission in AI** at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
+* **When should agents explore?** at [ICLR](https://iclr.cc/) (April 2022): [tweet](https://twitter.com/Miruna_Pislar/status/1518702795033092097?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [video](https://iclr.cc/virtual/2022/spotlight/7010)
+* **When should agents explore?** at [MILA](https://mila.quebec/en/) RL Sofa (April 2022)
+* **Transformers: past, present and future** at the Virtual Grace Hopper Celebration EMEA (2021): [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
+* **Introduction to Natural Language Processing** at a hackathon organised by TeensInAI Romania (2021): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
+* **Interview on my career path** at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (in Romanian)
