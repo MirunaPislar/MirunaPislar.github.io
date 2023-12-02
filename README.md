@@ -1,18 +1,18 @@
 ## About
 
-I'm a [Research Engineer at Google DeepMind](https://www.linkedin.com/in/mirunapislar/) in Paris. 
+I'm a [Research Engineer](https://www.linkedin.com/in/mirunapislar/) at Google DeepMind in Paris. 
 
 I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge.
 
-My research interests span reinforcement learning, representation learning, multi-agent social learning, AI for social good, AI Governance, and language evolution.
+My research interests span LLMs, reinforcement learning, representation learning, multi-agent social learning, AI for social good, AI Governance, and language evolution.
 
 ## Featured Projects
 
-### Language Agents as Digital Representatives [[paper]](https://openreview.net/pdf?id=sv7KZcUqu1)
+### Language Models as Digital Representatives (LLMs) [[paper]](https://openreview.net/pdf?id=sv7KZcUqu1)
 
 Abstract: _Consider the process of collective decision-making, in which a group of individuals interactively select a preferred outcome from among a universe of alternatives. In this context, "representation" is the activity of making an individual's preferences present in the process via participation by a proxy agent---i.e. their "representative". To this end, learned models of human behavior have the potential to fill this role, with practical implications for multi-agent scenario studies and mechanism design. In this work, we investigate the possibility of training language agents to behave in the capacity of representatives of human agents, appropriately expressing the preferences of those individuals whom they stand for. First, we formalize the setting of collective decision-making---as the episodic process of interaction between a group of agents and a decision mechanism. On this basis, we then formalize the problem of digital representation---as the simulation of an agent's behavior to yield equivalent outcomes from the mechanism. Finally, we conduct an empirical case study in the setting of consensus-finding among diverse humans, and demonstrate the feasibility of fine-tuning large language models to act as digital representatives._
 
-### Social Learning (multi-agent RL) [[Nature Comms]]([https://arxiv.org/pdf/2203.00715.pdf](https://www.nature.com/articles/s41467-023-42875-2)) [[arxiv]](https://arxiv.org/pdf/2203.00715.pdf) [[blog post]](https://www.deepmind.com/publications/learning-robust-real-time-cultural-transmission-without-human-data) [[video website]](https://sites.google.com/corp/view/dm-cgi)
+### Social Learning (multi-agent RL) [[Nature Comms]](https://www.nature.com/articles/s41467-023-42875-2) [[arxiv]](https://arxiv.org/pdf/2203.00715.pdf) [[blog post]](https://deepmind.google/discover/blog/learning-robust-real-time-cultural-transmission-without-human-data) [[video website]](https://sites.google.com/corp/view/dm-cgi)
 
 Abstract: _Cultural transmission is the domain-general social skill that allows agents to acquire and use information from each other in real-time with high fidelity and recall. It can be thought of as the process that perpetuates fit variants in cultural evolution. In humans, cultural evolution has led to the accumulation and refinement of skills, tools and knowledge across generations. We provide a method for generating cultural transmission in artificially intelligent agents, in the form of few-shot imitation. Our agents succeed at real-time imitation of a human in novel contexts without using any pre-collected human data. We identify a surprisingly simple set of ingredients sufficient for generating cultural transmission and develop an evaluation methodology for rigorously assessing it. This paves the way for cultural evolution to play an algorithmic role in the development of artificial general intelligence._
 
@@ -38,15 +38,19 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 ## Publications
 
-[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo, Shantanu Thakoor, Miruna Pîslar, Bernardo Avila Pires, Florent Altché, Corentin Tallec, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. NeurIPS (2022).
+[Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1). Daniel Jarrett*, Miruna Pîslar*, Michael Tessler, Michiel Bakker, Raphael Koster, Jan Balaguer, Romuald Elie, Christopher Summerfield, Andrea Tacchetti. [FMDM Workshop](https://sites.google.com/corp/view/fmdm-neurips23/) at **NeurIPS** (2023).
+
+[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2). Avishkar Bhoopchand*, Bethanie Brownfield*, Adrian Collister*, Agustin Dal Lago*, Ashley Edwards*, Richard Everett*, Alexandre Fréchette*, Yanko Gitahy Oliveira*, Edward Hughes*, Kory W. Mathewson*, Piermaria Mendolicchio*, Julia Pawar*, Miruna Pȋslar*, Alex Platonov*, Evan Senter*, Sukhdeep Singh*, Alexander Zacherl*, Lei M. Zhang*. **Nature Communications** (2023).
+
+[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo*, Shantanu Thakoor*, Miruna Pîslar*, Bernardo Avila Pires*, Florent Altché*, Corentin Tallec*, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. **NeurIPS** (2022).
 
 [Learning Robust Real-Time Cultural Transmission without Human Data](https://arxiv.org/pdf/2203.00715.pdf). Cultural General Intelligence Team, Avishkar Bhoopchand, Bethanie Brownfield, Adrian Collister, Agustin Dal Lago, Ashley Edwards, Richard Everett, Alexandre Frechette, Yanko Gitahy Oliveira, Edward Hughes, Kory W Mathewson, Piermaria Mendolicchio, Julia Pawar, Miruna Pîslar, Alex Platonov, Evan Senter, Sukhdeep Singh, Alexander Zacherl, Lei M Zhang. arXiv (2022).
 
-[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf). Miruna Pîslar, David Szepesvari, Georg Ostrovski, Diana Borsa, Tom Schaul. ICLR (2022).
+[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf). Miruna Pîslar, David Szepesvari, Georg Ostrovski, Diana Borsa, Tom Schaul. **ICLR** (2022).
 
-[Machine translation decoding beyond beam search](https://arxiv.org/pdf/2104.05336.pdf). Rémi Leblond, Jean-Baptiste Alayrac, Laurent Sifre, Miruna Pîslar, Jean-Baptiste Lespiau, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals. EMNLP (2021).
+[Machine translation decoding beyond beam search](https://arxiv.org/pdf/2104.05336.pdf). Rémi Leblond, Jean-Baptiste Alayrac, Laurent Sifre, Miruna Pîslar, Jean-Baptiste Lespiau, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals. **EMNLP** (2021).
 
-[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. COLING (2020).
+[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. **COLING** (2020).
 
 ## Talks & Events
 * **BYOL-Explore** at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
