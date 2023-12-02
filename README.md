@@ -1,6 +1,6 @@
 ## About
 
-I'm a Research Engineer at Google DeepMind in Paris. 
+I'm a [Research Engineer at Google DeepMind](https://www.linkedin.com/in/mirunapislar/) in Paris. 
 
 I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge.
 
@@ -8,9 +8,13 @@ My research interests span reinforcement learning, representation learning, mult
 
 ## Featured Projects
 
-### Social Learning (multi-agent RL) [[paper]](https://arxiv.org/pdf/2203.00715.pdf) [[blog post]](https://www.deepmind.com/publications/learning-robust-real-time-cultural-transmission-without-human-data) [[video website]](https://sites.google.com/corp/view/dm-cgi)
+### Language Agents as Digital Representatives [[paper]](https://openreview.net/pdf?id=sv7KZcUqu1)
 
-Abstract: _Cultural transmission is the domain-general social skill that allows agents to acquire and use information from each other in real-time with high fidelity and recall. In humans, it is the inheritance process that powers cumulative cultural evolution, expanding our skills, tools and knowledge across generations. We provide a method for generating zero-shot, high recall cultural transmission in artificially intelligent agents. Our agents succeed at real-time cultural transmission from humans in novel contexts without using any pre-collected human data. We identify a surprisingly simple set of ingredients sufficient for generating cultural transmission and develop an evaluation methodology for rigorously assessing it. This paves the way for cultural evolution as an algorithm for developing artificial general intelligence._
+Abstract: _Consider the process of collective decision-making, in which a group of individuals interactively select a preferred outcome from among a universe of alternatives. In this context, "representation" is the activity of making an individual's preferences present in the process via participation by a proxy agent---i.e. their "representative". To this end, learned models of human behavior have the potential to fill this role, with practical implications for multi-agent scenario studies and mechanism design. In this work, we investigate the possibility of training language agents to behave in the capacity of representatives of human agents, appropriately expressing the preferences of those individuals whom they stand for. First, we formalize the setting of collective decision-making---as the episodic process of interaction between a group of agents and a decision mechanism. On this basis, we then formalize the problem of digital representation---as the simulation of an agent's behavior to yield equivalent outcomes from the mechanism. Finally, we conduct an empirical case study in the setting of consensus-finding among diverse humans, and demonstrate the feasibility of fine-tuning large language models to act as digital representatives._
+
+### Social Learning (multi-agent RL) [[Nature Comms]]([https://arxiv.org/pdf/2203.00715.pdf](https://www.nature.com/articles/s41467-023-42875-2)) [[arxiv]](https://arxiv.org/pdf/2203.00715.pdf) [[blog post]](https://www.deepmind.com/publications/learning-robust-real-time-cultural-transmission-without-human-data) [[video website]](https://sites.google.com/corp/view/dm-cgi)
+
+Abstract: _Cultural transmission is the domain-general social skill that allows agents to acquire and use information from each other in real-time with high fidelity and recall. It can be thought of as the process that perpetuates fit variants in cultural evolution. In humans, cultural evolution has led to the accumulation and refinement of skills, tools and knowledge across generations. We provide a method for generating cultural transmission in artificially intelligent agents, in the form of few-shot imitation. Our agents succeed at real-time imitation of a human in novel contexts without using any pre-collected human data. We identify a surprisingly simple set of ingredients sufficient for generating cultural transmission and develop an evaluation methodology for rigorously assessing it. This paves the way for cultural evolution to play an algorithmic role in the development of artificial general intelligence._
 
 <img src="assets/img/cgi.png" alt="cgi" width="500x" />
 
