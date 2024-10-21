@@ -8,6 +8,22 @@ My research interests span LLMs, reinforcement learning, representation learning
 
 ## Featured Projects
 
+### Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach [[paper]](https://arxiv.org/pdf/2407.12687) [[LearnLM: Google IO announceement]](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) [[Learning Coach Gem]](https://blog.google/products/gemini/google-gemini-learning-features/) [[demo]](https://www.youtube.com/watch?time_continue=1&v=cvvWvutpB5o&embeds_referring_euri=https%3A%2F%2Fblog.google%2F&embeds_referring_origin=https%3A%2F%2Fblog.google)
+
+I'm currently working on large language models and reinforcement learning to enhance their pedagogical capabilities for AI tutoring. I led the automatic evaluations section in the [LearnLM paper](https://arxiv.org/pdf/2407.12687).
+
+<img src="assets/img/learnlm.png" alt="learnlm" width="500x" />
+
+Abstract: _Grounded in educational research and tailored to how people learn, LearnLM represents an effort across Google DeepMind, Google Research and our product teams to help make learning experiences more engaging, personal and useful. Our technical report presents our approach to improving generative AI for education and highlights how we’re working together with the AI and EdTech communities to responsibly maximize its positive impact and potential._
+
+_Working alongside educators and other learning experts, we’re infusing learning science principles, like the following, into our models and the products they power:_
+
+* _Inspire active learning: Allow for practice and healthy struggle with timely feedback_
+* _Manage cognitive load: Present relevant, well-structured information in multiple modalities_
+* _Adapt to the learner: Dynamically adjust to goals and needs, grounding in relevant materials_
+* _Stimulate curiosity: Inspire engagement to provide motivation through the learning journey_
+* _Deepen metacognition: Plan, monitor and help the learner reflect on progress_
+
 ### Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem [[paper]](https://arxiv.org/pdf/2404.15059)
 
 Abstract: _A canonical social dilemma arises when finite resources are allocated to a group of people, who can choose to either reciprocate with interest, or keep the proceeds for themselves. What resource allocation mechanisms will encourage levels of reciprocation that sustain the commons? Here, in an iterated multiplayer trust game, we use deep reinforcement learning (RL) to design an allocation mechanism that endogenously promotes sustainable contributions from human participants to a common pool resource. We first trained neural networks to behave like human players, creating a stimulated economy that allowed us to study how different mechanisms influenced the dynamics of receipt and reciprocation. We then used RL to train a social planner to maximise aggregate return to players. The social planner discovered a redistributive policy that led to a large surplus and an inclusive economy, in which players made roughly equal gains. The RL agent increased human surplus over baseline mechanisms based on unrestricted welfare or conditional cooperation, by conditioning its generosity on available resources and temporarily sanctioning defectors by allocating fewer resources to them. Examining the AI policy allowed us to develop an explainable mechanism that performed similarly and was more popular among players. Deep reinforcement learning can be used to discover mechanisms that promote sustainable human behaviour._
