@@ -24,6 +24,8 @@ _Working alongside educators and other learning experts, we’re infusing learni
 * _Stimulate curiosity: Inspire engagement to provide motivation through the learning journey_
 * _Deepen metacognition: Plan, monitor and help the learner reflect on progress_
 
+<img src="assets/img/autoevals.png" alt="autoevals" width="500x" />
+
 ### Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem [[paper]](https://arxiv.org/pdf/2404.15059)
 
 Abstract: _A canonical social dilemma arises when finite resources are allocated to a group of people, who can choose to either reciprocate with interest, or keep the proceeds for themselves. What resource allocation mechanisms will encourage levels of reciprocation that sustain the commons? Here, in an iterated multiplayer trust game, we use deep reinforcement learning (RL) to design an allocation mechanism that endogenously promotes sustainable contributions from human participants to a common pool resource. We first trained neural networks to behave like human players, creating a stimulated economy that allowed us to study how different mechanisms influenced the dynamics of receipt and reciprocation. We then used RL to train a social planner to maximise aggregate return to players. The social planner discovered a redistributive policy that led to a large surplus and an inclusive economy, in which players made roughly equal gains. The RL agent increased human surplus over baseline mechanisms based on unrestricted welfare or conditional cooperation, by conditioning its generosity on available resources and temporarily sanctioning defectors by allocating fewer resources to them. Examining the AI policy allowed us to develop an explainable mechanism that performed similarly and was more popular among players. Deep reinforcement learning can be used to discover mechanisms that promote sustainable human behaviour._
@@ -63,6 +65,10 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 <img src="assets/img/sarcasm.png" alt="sarcasm" width="500x" />
 
 ## Publications
+
+[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka*, Markus Kunesch*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, Miruna Pîslar, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al.
+
+[Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster *, Miruna Pîslar*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield.
 
 [Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1). Daniel Jarrett*, Miruna Pîslar*, Michael Tessler, Michiel Bakker, Raphael Koster, Jan Balaguer, Romuald Elie, Christopher Summerfield, Andrea Tacchetti. [FMDM Workshop](https://sites.google.com/corp/view/fmdm-neurips23/) at **NeurIPS** (2023).
 
