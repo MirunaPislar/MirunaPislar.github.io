@@ -66,6 +66,10 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 ## Publications
 
+[Evaluating Gemini in an arena for learning](https://arxiv.org/pdf/2505.24477). LearnLM Team, Google.
+
+[Learnlm: Improving gemini for learning](https://arxiv.org/pdf/2412.16429). LearnLM Team, Google.
+
 [Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka*, Markus Kunesch*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, Miruna Pîslar, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al.
 
 [Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster *, Miruna Pîslar*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield.
@@ -83,6 +87,7 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 [Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. **COLING** (2020).
 
 ## Talks & Events
+* **RL tutorial** at [EEML](https://www.eeml.eu/#h.8an8tvkqhvt0) (July 2025): [tutorial link](https://github.com/eemlcommunity/PracticalSessions2025/blob/main/3_rl/reinforcement_learning_tutorial.ipynb)
 * **BYOL-Explore** at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
 * **Learning Robust Real-Time Cultural Transmission without Human Data** at the [Cognitive Machine Learning (CoML)](https://cognitive-ml.fr/) group at ENS (November 2022): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
 * **Cultural Transmission in AI** at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
