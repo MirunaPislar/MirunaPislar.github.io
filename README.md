@@ -1,16 +1,16 @@
 ## About
 
-I'm a [Research Engineer](https://www.linkedin.com/in/mirunapislar/) at Google DeepMind in Paris. 
+I'm a [Research Engineer](https://www.linkedin.com/in/mirunapislar/) at Google DeepMind in Paris, where I'm part of the AI for Education team.
 
-I did my BSc in Computer Science at the University of Manchester, UK. Then I completed an MPhil in Advanced Computer Science at the University of Cambridge.
+My current research focuses on [LearnLM](https://arxiv.org/pdf/2407.12687), a pedagogical LLM for online tutoring. I work on training strategies, evaluation frameworks, and student simulators to advance AI tutoring systems.
 
-My research interests span LLMs, reinforcement learning, representation learning, multi-agent social learning, AI for social good, AI Governance, and language evolution.
+In the past, I’ve worked on AI for Democracy, multi-agent systems, and exploration in reinforcement learning. More broadly, my research interests span AI for social good, AI governance, and language evolution.
+
+Outside of research, I think about society and enjoy engaging with different forms of art. I read, write, and create visual art.
 
 ## Featured Projects
 
 ### Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach [[paper]](https://arxiv.org/pdf/2407.12687) [[LearnLM: Google IO announceement]](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) [[Learning Coach Gem]](https://blog.google/products/gemini/google-gemini-learning-features/) [[demo]](https://www.youtube.com/watch?time_continue=1&v=cvvWvutpB5o&embeds_referring_euri=https%3A%2F%2Fblog.google%2F&embeds_referring_origin=https%3A%2F%2Fblog.google)
-
-I'm currently working on large language models and reinforcement learning to enhance their pedagogical capabilities for AI tutoring. I led the automatic evaluations section in the [LearnLM paper](https://arxiv.org/pdf/2407.12687).
 
 <img src="assets/img/learnlm.png" alt="learnlm" width="500x" />
 
@@ -66,13 +66,15 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 ## Publications
 
-[Evaluating Gemini in an arena for learning](https://arxiv.org/pdf/2505.24477). LearnLM Team, Google.
+[Evaluating Gemini in an arena for learning](https://arxiv.org/pdf/2505.24477). LearnLM Team, Google. *arXiv* (2024).
 
-[Learnlm: Improving gemini for learning](https://arxiv.org/pdf/2412.16429). LearnLM Team, Google.
+[Learnlm: Improving gemini for learning](https://arxiv.org/pdf/2412.16429). LearnLM Team, Google. *arXiv* (2024).
 
-[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka*, Markus Kunesch*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, Miruna Pîslar, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al.
+[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka\*, Markus Kunesch\*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, *Miruna Pîslar*, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al. *arXiv* (2024).
 
-[Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster *, Miruna Pîslar*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield.
+[Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7). Raphael Koster\*, Miruna Pîslar\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. **Nature Communications** (2025).
+
+[Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster\*, Miruna Pîslar\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. *arXiv* (2024).
 
 [Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1). Daniel Jarrett*, Miruna Pîslar*, Michael Tessler, Michiel Bakker, Raphael Koster, Jan Balaguer, Romuald Elie, Christopher Summerfield, Andrea Tacchetti. [FMDM Workshop](https://sites.google.com/corp/view/fmdm-neurips23/) at **NeurIPS** (2023).
 
@@ -87,7 +89,8 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 [Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. **COLING** (2020).
 
 ## Talks & Events
-* **RL tutorial** at [EEML](https://www.eeml.eu/#h.8an8tvkqhvt0) (July 2025): [tutorial link](https://github.com/eemlcommunity/PracticalSessions2025/blob/main/3_rl/reinforcement_learning_tutorial.ipynb)
+* **RL tutorial** at [Indaba, Kigali](https://www.linkedin.com/posts/deep-learning-indaba_urunana-indaba2025-africanai-activity-7363127334125596672-X9w6?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeBs2gB8Jinxef1kvmJFUH-f48rn_SEwiA) (July 2025): [tutorial link](https://github.com/deep-learning-indaba/indaba-pracs-2025/tree/main/practicals/Reinforcement_Learning)
+* **RL tutorial** at [EEML, Sarajevo](https://www.eeml.eu/#h.8an8tvkqhvt0) (July 2025): [tutorial link](https://github.com/eemlcommunity/PracticalSessions2025/blob/main/3_rl/reinforcement_learning_tutorial.ipynb)
 * **BYOL-Explore** at [NeurIPS Paris event](https://scai.sorbonne-universite.fr/public/events/view/7754b3ff1feea83b10d5/6) (November 2022): [tweet](https://twitter.com/DeepMind/status/1538887456489185283?s=20&t=rjUSkW9Ir9V1A6b-3EC9Iw), [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53367.png?t=1669311560.8058224)
 * **Learning Robust Real-Time Cultural Transmission without Human Data** at the [Cognitive Machine Learning (CoML)](https://cognitive-ml.fr/) group at ENS (November 2022): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
 * **Cultural Transmission in AI** at the [Machine learning Workshop](https://ml4evolang.github.io/#speakers) at [EvoLang](https://sites.google.com/corp/view/joint-conf-language-evolution/) in Kanazawa, Japan (September 2022)
@@ -96,3 +99,9 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 * **Transformers: past, present and future** at the Virtual Grace Hopper Celebration EMEA (2021): [video](https://players.brightcove.net/6180409581001/lat9UJFbI_default/index.html?videoId=6254533527001)
 * **Introduction to Natural Language Processing** at a hackathon organised by TeensInAI Romania (2021): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
 * **Interview on my career path** at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (in Romanian)
+
+## Other
+
+Stories: [matca](https://matcaliterara.ro/author/miruna-pislar/)
+Photos: [flickr](https://www.flickr.com/photos/101657849@N03/)
+Other projects: [behance](https://www.behance.net/mirunapislar)
