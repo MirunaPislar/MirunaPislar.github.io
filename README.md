@@ -66,9 +66,9 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 ## Publications
 
-[Evaluating Gemini in an arena for learning](https://arxiv.org/pdf/2505.24477). LearnLM Team, Google. *arXiv* (2024).
+[Evaluating Gemini in an arena for learning](https://arxiv.org/pdf/2505.24477). LearnLM Team, Google. *arXiv* (2025).
 
-[Learnlm: Improving gemini for learning](https://arxiv.org/pdf/2412.16429). LearnLM Team, Google. *arXiv* (2024).
+[Learnlm: Improving gemini for learning](https://arxiv.org/pdf/2412.16429). LearnLM Team, Google. *arXiv* (2025).
 
 [Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka\*, Markus Kunesch\*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, *Miruna Pîslar*, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al. *arXiv* (2024).
 
