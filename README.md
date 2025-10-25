@@ -74,19 +74,19 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 [Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7). Raphael Koster\*, Miruna Pîslar\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. **Nature Communications** (2025).
 
-[Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster\*, Miruna Pîslar\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. *arXiv* (2024).
+[Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster\*, *Miruna Pîslar*\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. *arXiv* (2024).
 
-[Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1). Daniel Jarrett*, Miruna Pîslar*, Michael Tessler, Michiel Bakker, Raphael Koster, Jan Balaguer, Romuald Elie, Christopher Summerfield, Andrea Tacchetti. [FMDM Workshop](https://sites.google.com/corp/view/fmdm-neurips23/) at **NeurIPS** (2023).
+[Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1). Daniel Jarrett\*, *Miruna Pîslar*\*, Michael Tessler, Michiel Bakker, Raphael Koster, Jan Balaguer, Romuald Elie, Christopher Summerfield, Andrea Tacchetti. [FMDM Workshop](https://sites.google.com/corp/view/fmdm-neurips23/) at **NeurIPS** (2023).
 
-[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2). Avishkar Bhoopchand*, Bethanie Brownfield*, Adrian Collister*, Agustin Dal Lago*, Ashley Edwards*, Richard Everett*, Alexandre Fréchette*, Yanko Gitahy Oliveira*, Edward Hughes*, Kory W. Mathewson*, Piermaria Mendolicchio*, Julia Pawar*, Miruna Pȋslar*, Alex Platonov*, Evan Senter*, Sukhdeep Singh*, Alexander Zacherl*, Lei M. Zhang*. **Nature Communications** (2023).
+[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2). Avishkar Bhoopchand\*, Bethanie Brownfield\*, Adrian Collister\*, Agustin Dal Lago\*, Ashley Edwards\*, Richard Everett\*, Alexandre Fréchette\*, Yanko Gitahy Oliveira\*, Edward Hughes\*, Kory W. Mathewson\*, Piermaria Mendolicchio\*, Julia Pawar\*, *Miruna Pȋslar*\*, Alex Platonov\*, Evan Senter\*, Sukhdeep Singh\*, Alexander Zacherl\*, Lei M. Zhang\*. **Nature Communications** (2023).
 
-[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo*, Shantanu Thakoor*, Miruna Pîslar*, Bernardo Avila Pires*, Florent Altché*, Corentin Tallec*, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. **NeurIPS** (2022).
+[BYOL-Explore: Exploration by Bootstrapped Prediction](https://arxiv.org/abs/2206.08332). Zhaohan Daniel Guo\*, Shantanu Thakoor\*, *Miruna Pîslar*\*, Bernardo Avila Pires\*, Florent Altché\*, Corentin Tallec\*, Alaa Saade, Daniele Calandriello, Jean-Bastien Grill, Yunhao Tang, Michal Valko, Rémi Munos, Mohammad Gheshlaghi Azar, Bilal Piot. **NeurIPS** (2022).
 
-[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf). Miruna Pîslar, David Szepesvari, Georg Ostrovski, Diana Borsa, Tom Schaul. **ICLR** (2022).
+[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf). *Miruna Pîslar*, David Szepesvari, Georg Ostrovski, Diana Borsa, Tom Schaul. **ICLR** (2022).
 
-[Machine translation decoding beyond beam search](https://arxiv.org/pdf/2104.05336.pdf). Rémi Leblond, Jean-Baptiste Alayrac, Laurent Sifre, Miruna Pîslar, Jean-Baptiste Lespiau, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals. **EMNLP** (2021).
+[Machine translation decoding beyond beam search](https://arxiv.org/pdf/2104.05336.pdf). Rémi Leblond, Jean-Baptiste Alayrac, Laurent Sifre, *Miruna Pîslar*, Jean-Baptiste Lespiau, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals. **EMNLP** (2021).
 
-[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). Miruna Pîslar, Marek Rei. **COLING** (2020).
+[Seeing Both the Forest and the Trees: Multi-head Attention for Joint Classification on Different Compositional Levels](https://arxiv.org/pdf/2011.00470.pdf). *Miruna Pîslar*, Marek Rei. **COLING** (2020).
 
 ## Talks & Events
 * **RL tutorial** at [Indaba, Kigali](https://www.linkedin.com/posts/deep-learning-indaba_urunana-indaba2025-africanai-activity-7363127334125596672-X9w6?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeBs2gB8Jinxef1kvmJFUH-f48rn_SEwiA) (July 2025): [tutorial link](https://github.com/deep-learning-indaba/indaba-pracs-2025/tree/main/practicals/Reinforcement_Learning)
