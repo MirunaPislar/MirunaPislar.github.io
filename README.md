@@ -100,8 +100,10 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 * **Introduction to Natural Language Processing** at a hackathon organised by TeensInAI Romania (2021): [tweet](https://twitter.com/CoML_ENS/status/1594625442476347394?s=20)
 * **Interview on my career path** at NEstTV show's "Sinteze Administrative" (2020): [Part 1](https://www.youtube.com/watch?v=_nEzdvENgQo), [Part 2](https://www.youtube.com/watch?v=bOhuA6dhAB4) (in Romanian)
 
-## Other
+## Artistic output
 
-Stories: [matca](https://matcaliterara.ro/author/miruna-pislar/)
-Photos: [flickr](https://www.flickr.com/photos/101657849@N03/)
-Other projects: [behance](https://www.behance.net/mirunapislar)
+**Stories:** [matca](https://matcaliterara.ro/author/miruna-pislar/)
+
+**Photos:** [flickr](https://www.flickr.com/photos/101657849@N03/)
+
+**Visual projects:** [behance](https://www.behance.net/mirunapislar)
