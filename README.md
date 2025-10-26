@@ -4,7 +4,7 @@ I'm a [Research Engineer](https://www.linkedin.com/in/mirunapislar/) at Google D
 
 My current research focuses on [LearnLM](https://arxiv.org/pdf/2407.12687), a pedagogical LLM for online tutoring. I work on training strategies, evaluation frameworks, and student simulators to advance AI tutoring systems.
 
-In the past, I’ve worked on AI for Democracy, multi-agent systems, and exploration in reinforcement learning. More broadly, my research interests span AI for social good, AI governance, and language evolution.
+In the past, I've worked on AI for Democracy, multi-agent systems, and exploration in reinforcement learning. More broadly, my interests span AI for social good, AI governance, and language evolution.
 
 Outside of research, I think about society and enjoy engaging with different forms of art. I read, write, and create visual art.
 
@@ -72,7 +72,7 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 
 [Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687). Irina Jurenka\*, Markus Kunesch\*, Kevin R. McKee, Daniel Gillick, Shaojian Zhu, Sara Wiltberger, Shubham Milind Phal, Katherine Hermann, Daniel Kasenberg, Avishkar Bhoopchand, Ankit Anand, *Miruna Pîslar*, Stephanie Chan, Lisa Wang, Jennifer She, Parsa Mahmoudieh, Aliya Rysbek, Wei-Jen Ko, et al. *arXiv* (2024).
 
-[Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7). Raphael Koster\*, Miruna Pîslar\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. **Nature Communications** (2025).
+[Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7). Raphael Koster\*, *Miruna Pîslar*\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. **Nature Communications** (2025).
 
 [Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem](https://arxiv.org/pdf/2404.15059). Raphael Koster\*, *Miruna Pîslar*\*, Andrea Tacchetti, Jan Balaguer, Leqi Liu, Romuald Elie, Oliver P. Hauser, Karl Tuyls, Matt Botvinick, Christopher Summerfield. *arXiv* (2024).
 
@@ -103,6 +103,8 @@ Abstract: _At a first, superficial glance, sarcasm might not seem representative
 ## Artistic output
 
 **Stories:** [matca](https://matcaliterara.ro/author/miruna-pislar/)
+
+**Poems:** [agonia](https://www.poezie.ro/index.php/author/0062923/Miruna_P%C3%AEslar)
 
 **Photos:** [flickr](https://www.flickr.com/photos/101657849@N03/)
 
